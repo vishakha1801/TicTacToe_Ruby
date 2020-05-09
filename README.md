@@ -6,6 +6,8 @@ GAME RULES
    2. Each play draw X or O alternately on board
    3. The game ends when someone get 3 marks in a row
    4. The row can be vertical, horizontal or diagonal
+   
+   
 BUILT WITH
   1. Ruby Language
   2. Rubocop (Linter) with Stickler (CI Tool)
