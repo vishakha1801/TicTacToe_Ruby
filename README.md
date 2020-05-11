@@ -11,6 +11,6 @@ GAME RULES
 BUILT WITH
   1. Ruby Language
   2. Rubocop (Linter) with Stickler (CI Tool)
-  3. Rspec (Unit testing)
+  3. Rspec (Yet to update)
   4. Git (with Gitflow), Github and VScode
  
