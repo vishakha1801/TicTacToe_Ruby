@@ -4,7 +4,7 @@ quick game of TicTacToe operated by command line.This game uses OOP concepts.
 ## Live Demo
 
 To play online, go to the page and hit (Run) button.
-[Run on Repl.it](https://TicTacToeRuby.vishakhapathak.repl.run)
+[Run on Repl.it](https://repl.it/@vishakhapathak/TicTacToeRuby)
 
 
 ##GAME RULES
